@@ -955,7 +955,7 @@
                     100,
                     [
                       101,
-                      "https://t.me/Wbanana_Channel",
+                      "https://t.me/wbanana_x",
                       true,
                     ],
                   ],
