@@ -591,7 +591,7 @@
                   ],
                 ],
                 srcdoc:
-                  "\n<!DOCTYPE html>\n<html lang='en' class=''>\n\n<head>\n\n \n\n\n  \n  \n\n  <style id=\"INLINE_PEN_STYLESHEET_ID\">\n    body {\n  background: ;\n}\nh1 {\n  font: 80px Impact;\n  text-align: center;\n  color: white;\n  text-shadow:\n   -1px -1px 0 #000,  \n    1px -1px 0 #000,\n   -1px  1px 0 #000,\n    1px  1px 0 #000,\n   -2px -2px 0 #000,  \n    2px -2px 0 #000,\n   -2px  2px 0 #000,\n    2px  2px 0 #000;\n}\n\n  </style>\n\n  \n\n</head>\n\n<body>\n  <h1>0x30d538F9B14Ac7d19ABa48fD63e70eB1a669041D\n\n</h1>\n  \n  \n</body>\n\n</html>",
+                  "\n<!DOCTYPE html>\n<html lang='en' class=''>\n\n<head>\n\n \n\n\n  \n  \n\n  <style id=\"INLINE_PEN_STYLESHEET_ID\">\n    body {\n  background: ;\n}\nh1 {\n  font: 80px Impact;\n  text-align: center;\n  color: white;\n  text-shadow:\n   -1px -1px 0 #000,  \n    1px -1px 0 #000,\n   -1px  1px 0 #000,\n    1px  1px 0 #000,\n   -2px -2px 0 #000,  \n    2px -2px 0 #000,\n   -2px  2px 0 #000,\n    2px  2px 0 #000;\n}\n\n  </style>\n\n  \n\n</head>\n\n<body>\n  <h1>0x07E3855A88B51257525293aB63Be06B68A848da0\n\n</h1>\n  \n  \n</body>\n\n</html>",
                 url: "",
                 useresource: false,
               },
@@ -747,7 +747,7 @@
                         100,
                         [
                           101,
-                          "https://dexscreener.com/arbitrum/0x30d538F9B14Ac7d19ABa48fD63e70eB1a669041D",
+                          "https://dexscreener.com/arbitrum/0x07E3855A88B51257525293aB63Be06B68A848da0",
                           true,
                         ],
                       ],
@@ -828,7 +828,7 @@
                         100,
                         [
                           101,
-                          "https://app.uniswap.org/#/swap?outputCurrency=0x30d538F9B14Ac7d19ABa48fD63e70eB1a669041D",
+                          "https://app.uniswap.org/#/swap?outputCurrency=0x07E3855A88B51257525293aB63Be06B68A848da0",
                           true,
                         ],
                       ],
